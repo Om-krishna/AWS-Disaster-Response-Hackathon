@@ -2,7 +2,6 @@
 
 
 # Links
-
 * [SAATHI](https://saathi-thesaviour.herokuapp.com/)
 * [Deployed Board](https://deploygateway.herokuapp.com/)
 * [Deployed Gateway](https://deploygateway.herokuapp.com/show)
