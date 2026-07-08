@@ -1,6 +1,6 @@
 # AWS-Disaster-Response-Hackathon
 
-
+# Powered by Amazon
 # Links
 
 * [SAATHI](https://saathi-thesaviour.herokuapp.com/)
